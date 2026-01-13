@@ -1,4 +1,4 @@
-# Ender Hale's Game Dev Portfolio 2026
+# Ender Hale's Game Dev Portfolio 2025/2026
 ### Email: [9683176@graniteschools.org]()
 
 ## [Certification](https://github.com/BugSlayer360/Portfolio/blob/main/Ender%20Hale_Game%20Development%20Fundamentals%201_12182025.pdf)
@@ -49,3 +49,18 @@ Lunacy is a 2D psychological horror game. You wake up in an open clearing with t
 * [Windows EXE]()
 * [Mac App]()
 * [Source Code](https://github.com/BugSlayer360/GroupGame/tree/main/src/Lunacy)
+
+
+## Term 3 Projects
+
+### Just Jump
+
+#### About the game:
+Genre: Minimal precision platformer + simple boss fight
+Scope: Small (10–20 short levels + 1 boss)
+Style: Clean, abstract (shapes, colors, simple effects)
+###### Key features include:
+* Only one button for actions
+* Insant death and revive on hazards
+* Fun timing and puzzles
+* Levels get harder near the end
