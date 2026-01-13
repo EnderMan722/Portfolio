@@ -55,6 +55,7 @@ Lunacy is a 2D psychological horror game. You wake up in an open clearing with t
 
 ### Just Jump
 ![Artifact](https://github.com/EnderMan722/Portfolio/blob/main/images/GameArtifact.png)
+Easy to hard from left to right
 #### About the game:
 Genre: Minimal precision platformer + simple boss fight
 Scope: Small (10–20 short levels + 1 boss)
